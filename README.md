@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm GUBI</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ogubuike245&column=-1&theme=gruvbox&column=3&margin-w=15&margin-h=15&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ogubuike245&column=-1&theme=gruvbox&column=3&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://twitter.com/spinkq" target="blank"><img src="https://img.shields.io/twitter/follow/spinkq?logo=twitter&style=for-the-badge" alt="spinkq" /></a> </p>
 
