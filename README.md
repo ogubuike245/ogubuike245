@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm GUBI</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
-<a href=#><img src="contributions.svg"></a>
+
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+  <img src="https://profile-counter.glitch.me/ogubuike245/count.svg" />
 </p>
 
 
