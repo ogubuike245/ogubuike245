@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm GUBI</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
-Github 
+
+
 
 
 [![](https://raw.githubusercontent.com/ogubuike245/github-profile-summary/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -15,6 +16,7 @@ Github
 [![](https://raw.githubusercontent.com/ogubuike245/github-profile-summary/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
  [![](https://raw.githubusercontent.com/ogubuike245/github-profile-summary/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 <p align="center"> 
   Visitor count<br>
