@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
 
-
+![](https://komarev.com/ghpvc/?username=ogubuike245&color=dc143c)
 
 
 [![](https://raw.githubusercontent.com/ogubuike245/github-profile-summary/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
