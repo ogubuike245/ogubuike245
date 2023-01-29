@@ -1,0 +1,20 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule: # execute every 24 hours
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: ogubuike245/github-profile-summary-cards@release
+        env: # default use ${{ secrets.GITHUB_TOKEN }}, you can change to your personal access token
+          GITHUB_TOKEN: ${{ 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}}
+        with:
+          USERNAME: ${{ ogubuike245 }}
+          UTC_OFFSET: 8
