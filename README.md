@@ -5,7 +5,9 @@
   
 
 
- <p align="center"> <a href="https://github.com/ogubuike245&theme=onedark/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ogubuike245" alt="ogubuike" /></a> </p>
+ <p align="center"> 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ogubuike245&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+ </p>
 
 
 - 🔭 I’m currently working on [FastOrderPalApi]  
