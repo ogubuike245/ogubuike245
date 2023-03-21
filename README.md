@@ -10,7 +10,7 @@
 
 <p align="center"> 
 <a href="https://github.com/ogubuike245/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=ogubuike245&theme=onedark)](https://github.com/ogubuike245/github-profile-trophy)" alt="ogubuike" />
+<img src="https://github-profile-trophy.vercel.app/?username=ogubuike245&theme=onedark" alt="ogubuike" />
 </a>
  </p>
 
