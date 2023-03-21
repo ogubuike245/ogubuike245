@@ -5,8 +5,17 @@
   
 
 
+
  <p align="center"> 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ogubuike245&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ogubuike245/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=ogubuike245" alt="ogubuike" />
+</a>
+ </p>
+
+<p align="center"> 
+<a href="https://github.com/ogubuike245/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)" alt="ogubuike" />
+</a>
  </p>
 
 
