@@ -4,6 +4,10 @@
 ### <div align="center">Full Stack Developer / React - NodeJS 🚀</div>  
   
 
+
+ <p align="center"> <a href="https://github.com/ogubuike245/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ogubuike245" alt="ogubuike" /></a> </p>
+
+
 - 🔭 I’m currently working on [FastOrderPalApi]  
   
 
